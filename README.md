@@ -1,2 +1,2 @@
 # hello-world
-Oooh, you have a love a hello world!
+Oooh, you have to love a hello world file!
